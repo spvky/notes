@@ -1,0 +1,20 @@
+Dahlia(Val+Robo) Corner:
+2lk 2mp 2hp l.Shot + bypass
+5hp Empower
+2mp 5[hp] tag robo
+5lk 2hp
+j.mp j.hk (steer down halfway through)
+m.Danger
+5lpx2 5[mp] 5mk 5hp h.Danger {Catastrophe Cannon}
+8542 Damage (Level 1 cannon)
+
+
+Robo(Val) Midscreen:
+2lk 2mp 5mk 5hk 2hk~Bypass
+dash 5mk 2hp
+j.mk j.hk[3]
+m.Danger
+walk 5[mp]
+5lk 5[mp]
+5lpx2 5[mp] 5mk 5hp h.Danger {Catastrophe Cannon}
+7350 Damage (Level 1 cannon)

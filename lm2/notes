@@ -1,0 +1,33 @@
+Icefire Treetop:
+-G2: Incant Sun and Moon to open chest
+
+
+Entering the Underworld:
+-Chant sun+moon+sea at the end of the long, long path at the bottom of the earth
+
+
+Corridor of Blood:
+
+Valhalla:
+- Default
+- |  : Empty
+- \  : Hall of Malice
+- \W : Dark Star Lord's Mausoleum
+- /W : Shrine of the Frost Giants
+
+Hall of Malice:
+- |  : Inaccessible Climb
+
+Dark Star Lord's Mausoleum:
+- \W : Valhalla
+- -- : Shrine of the Frost Giants
+
+Shrine of the Frost Giants:
+- \W : Hall of Malice
+- /W : Valhalla
+- -- : Dark Star Lord's Mausoleum
+
+Hall of Malice:
+- \W : Shrine of the Frost Giants
+
+
